@@ -1,0 +1,7 @@
+Commonwealth Rockets / CRE
+Version 2.1
+
+Fixes for KSP 1.10.X
+Place the CRE folder into KSP/GameData to use. Have fun!
+
+CRE is distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
