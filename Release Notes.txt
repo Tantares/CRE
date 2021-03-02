@@ -1,7 +1,9 @@
 Commonwealth Rockets / CRE
-Version 2.1
+Version 2.2
 
-Fixes for KSP 1.10.X
+- Fixes for KSP 1.11.X
+- New waterfall configs from Zorg.
+
 Place the CRE folder into KSP/GameData to use. Have fun!
 
 CRE is distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
